@@ -1,0 +1,57 @@
+body {
+    background-color:#232946ff;
+    color:#fffffe;
+    font-family: "游ゴシック体","YuGothic";
+}
+
+.header {
+    background-color:#b8c1ecff;
+    height: 90px;
+}
+
+.header-logo {
+    font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    float: right;
+    padding: 33px 20px;
+    list-style: none;
+}
+
+h1 {
+    font-size: 100px;
+    padding: 80px 60px;
+}
+
+button {
+    width:200px;
+  font-size:12px;
+  text-align:center;
+  padding:10px 0 10px;
+  background:#eebbc3ff;
+}
+
+.button1 {
+    text-align: center;
+}
+
+.info {
+    float: left;
+    margin: 30px;
+    margin-top: 80px;
+    height: 400px;
+}
+
+.shopping-mall {
+    margin: 30px;
+    height: 400px;
+}
+
+.info-container {
+ width: 1000px;                             
+    margin:  0 auto;  
+    height: 400px          
+}
