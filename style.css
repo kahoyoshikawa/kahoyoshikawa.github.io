@@ -6,19 +6,20 @@ body {
 
 .header {
     background-color:#b8c1ecff;
-    height: 90px;
+    height: 100px;
 }
 
 .header-logo {
     font-size: 36px;
     float: left;
-    padding: 20px 40px;
+    padding: 20px 60px;
 }
 
 .header-list li {
     float: right;
     padding: 33px 20px;
     list-style: none;
+    font-size: 18px;
 }
 
 h1 {
@@ -28,30 +29,107 @@ h1 {
 
 button {
     width:200px;
-  font-size:12px;
+  font-size:18px;
+  font-weight: bold;
   text-align:center;
   padding:10px 0 10px;
-  background:#eebbc3ff;
+  background-color: #eebbc3ff;
 }
 
 .button1 {
     text-align: center;
 }
 
-.info {
-    float: left;
-    margin: 30px;
-    margin-top: 80px;
-    height: 400px;
+.shopping-mall {
+    display: block;
+    text-align: center;
 }
 
-.shopping-mall {
-    margin: 30px;
-    height: 400px;
+.maps {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    height: 300px;
 }
 
 .info-container {
- width: 1000px;                             
+    width: 1000px;                             
     margin:  0 auto;  
     height: 400px          
 }
+
+.info1 {
+    float: left;
+    margin-top: 80px;
+    height: 400px;
+    font-size: 22px;
+}
+
+.info2 {
+    float: left;
+   margin-top: 80px;
+   font-size: 22px;
+   position:absolute;
+   top: 1730px;
+   left: 220px;
+}
+
+.img-lightbulb {
+    width: 370px;
+    height: 370px;
+    position:absolute;
+    top: 1725px;
+    left: 700px;
+}
+.info3 {
+    float: left;
+    margin-top: 80px;
+    font-size: 22px;
+    position:absolute;
+    top: 2026px;
+    left: 220px;
+}
+
+.img-escalator {
+    width: 400px;
+    height: 400px;
+    position:absolute; 
+    top: 2075px;
+    left: 700px;
+}
+
+.info4 {
+    float: left;
+    margin-top: 80px;
+    font-size: 22px;
+    position:absolute;
+    top: 2460px;
+    left: 220px;
+}
+
+.info5 {
+    font-size: 22px;
+    float: left;
+    margin-top: 80px;
+    position:absolute;
+    top: 2750px;
+    left: 220px;
+}
+
+.info6 {
+    float: left;
+    margin-top: 80px;
+    font-size:22px;
+    position:absolute;
+    top: 3150px;
+    left: 220px;
+}
+
+.img-gift {
+    position:absolute;
+    top: 3150px;
+    left: 750px;
+    width: 430px;
+    height: 430px;
+}
+
